@@ -1,6 +1,0 @@
-no_pars=  4
-no_Sims=  2
-type_of_goal_fn= Nash_Sutcliff
-Sim_No.     1:R__CN2.mgt   2:V__ALPHA_BF.gw   3:V__GW_DELAY.gw   4:V__GWQMN.gw goal_value
-1       0.1000   0.7500 345.0000   0.5000  -0.434745
-2      -0.1000   0.2500 135.0000   1.5000  -0.096143
