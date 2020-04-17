@@ -1,4 +1,4 @@
-1     : number of observed variables
+4     : number of observed variables
 
 FLOW_OUT_1   : this is the name of the variable and the subbasin number to be included in the objective function
 141   : number of data points for this variable as it follows below. First column is a sequential number from beginning
@@ -436,3 +436,4 @@ NO3_OUT_7   : this is the name of the variable and the subbasin number to be inc
 142  NO3_OUT_10_2001	3.2000e+000
 143  NO3_OUT_11_2001	5.8000e+003
 144  NO3_OUT_12_2001	7.4000e+003
+
