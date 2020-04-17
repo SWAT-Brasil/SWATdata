@@ -1,0 +1,163 @@
+Echo of goal_fn_SUFI2.cpp
+-----------------------------------------
+Maximum Array dimensions:
+Max number of simulations=      2,000
+Max number of parameters=       1000
+Max number of observed data=    30,000
+Max number of obs. variables=   1500
+-----------------------------------------
+
+number of parameters=   4
+number of simulation=   2
+
+1  1:R__CN2.mgt                         -0.200000       0.200000
+2  2:V__ALPHA_BF.gw                      0.000000       1.000000
+3  3:V__GW_DELAY.gw                     30.000000     450.000000
+4  4:V__GWQMN.gw                         0.000000       2.000000
+
+---------------------------------------------
+
+----- Reading observed file ------
+total number of variables=  4
+type of goal fn=  5
+behavioral threshold=  0.500000
+Power of MSN=  1.000000
+
+variable name= FLOW_OUT_1
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 141
+
+variable name= FLOW_OUT_3
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 141
+
+variable name= FLOW_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 121
+
+variable name= NO3_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 15.000000
+number of observations= 12
+
+
+-----------------end of observation----------------------------
+
+Number of simulated data files= 4
+Names of files containing simulated variables
+1- SUFI2.OUT/FLOW_OUT_1.txt
+2- SUFI2.OUT/FLOW_OUT_3.txt
+3- SUFI2.OUT/FLOW_OUT_7.txt
+4- SUFI2.OUT/NO3_OUT_7.txt
+
+
+----
+sim No.= 1
+  0.1000   0.7500 345.0000   0.5000 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  1.158092
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  5.423106
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  87.142220
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  18806.275391
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  82.286568
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  16354.811523
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  36264.167969
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  8029975552.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.029173  partial_goal=   -0.029173
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.065146  partial_goal=    0.035973
+var=   3  lower_contribution=    0.000000  higher_contribution=   -2.608892  partial_goal=   -2.572919
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.833939  partial_goal=   -1.738979
+NS= -0.434745
+goal= -0.434745
+
+----
+sim No.= 2
+ -0.1000   0.2500 135.0000   1.5000 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.229428
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  0.400219
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  30.574511
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  2465.539063
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  32.409851
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  2472.252686
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  5478.517090
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  285891904.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.194732  partial_goal=   -0.194732
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.092804  partial_goal=   -0.101928
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.371921  partial_goal=   -0.473849
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.089276  partial_goal=   -0.384573
+NS= -0.096143
+goal= -0.096143
