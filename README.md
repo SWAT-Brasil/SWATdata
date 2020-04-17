@@ -6,3 +6,6 @@ utilização em testes e validação de automação e outros projetos.
 
 Os projetos ainda estão sendo testados e não é garantido que estejam funcionando
 adequadamente.
+
+## TODO
+- Encontrar/fazer um exemplo de SWATCUP para SWAT2012 para o Linux e Window

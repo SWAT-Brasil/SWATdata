@@ -18,7 +18,7 @@ number of simulation=   8
 ---------------------------------------------
 
 ----- Reading observed file ------
-total number of variables=  1
+total number of variables=  4
 type of goal fn=  5
 behavioral threshold=  0.500000
 Power of MSN=  1.000000
@@ -32,138 +32,40 @@ weight above= 1.000000
 percent error= 10.000000
 number of observations= 141
 
+variable name= FLOW_OUT_3
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 141
+
+variable name= FLOW_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 121
+
+variable name= NO3_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 15.000000
+number of observations= 12
+
 
 -----------------end of observation----------------------------
 
-Number of simulated data files= 1
+Number of simulated data files= 4
 Names of files containing simulated variables
 1- SUFI2.OUT/FLOW_OUT_1.txt
+2- SUFI2.OUT/FLOW_OUT_3.txt
+3- SUFI2.OUT/FLOW_OUT_7.txt
+4- SUFI2.OUT/NO3_OUT_7.txt
 
-
-----
-sim No.= 1
-  0.1750   0.4375 213.7500   0.3750 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  4.222837
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  32.686546
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.210363  partial_goal=   -0.210363
-NS= -0.210363
-goal= -0.210363
-
-----
-sim No.= 2
-  0.1250   0.0625 161.2500   1.6250 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  1.968956
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  14.554264
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.095187  partial_goal=   -0.095187
-NS= -0.095187
-goal= -0.095187
-
-----
-sim No.= 3
- -0.1250   0.9375 318.7500   1.1250 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.627754
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  2.121191
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.172365  partial_goal=   -0.172365
-NS= -0.172365
-goal= -0.172365
-
-----
-sim No.= 4
- -0.0250   0.6875 371.2500   1.8750 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.851503
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  4.952701
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.197759  partial_goal=   -0.197759
-NS= -0.197759
-goal= -0.197759
-
-----
-sim No.= 5
- -0.0750   0.8125 266.2500   0.6250 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  1.082106
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  3.299409
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.098444  partial_goal=   -0.098444
-NS= -0.098444
-goal= -0.098444
-
-----
-sim No.= 6
-  0.0250   0.3125 108.7500   0.8750 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  1.308287
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  8.091915
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.135204  partial_goal=   -0.135204
-NS= -0.135204
-goal= -0.135204
-
-----
-sim No.= 7
-  0.0750   0.1875 423.7500   0.1250 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  1.657807
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  10.956436
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.163749  partial_goal=   -0.163749
-NS= -0.163749
-goal= -0.163749
-
-----
-sim No.= 8
- -0.1750   0.5625  56.2500   1.3750 
-var= 1  cntr_lower= 0  cntr_higher=141
-1  obs_avg_lower=  0.000000
-1  sim_avg_lower=  0.000000
-1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.703052
-1  obs_variance_lower=  -0.000000
-1  sim_variance_lower=  -0.000000
-1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  2.725964
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.010635  partial_goal=   -0.010635
-NS= -0.010635
-goal= -0.010635
