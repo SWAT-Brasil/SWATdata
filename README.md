@@ -9,3 +9,6 @@ adequadamente.
 
 ## TODO
 - Encontrar/fazer um exemplo de SWATCUP para SWAT2012 para o Linux e Window
+- Permitir um executavel customizado pelo usuario: ele fornece a path para o executavel
+e ele é carregado quando chama o run. Ou talvez utilizar run_custom...acho que a primeira
+forma é melhor pois não precisa alterar o código, só acresentar uma linha.
