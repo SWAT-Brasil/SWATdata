@@ -1,0 +1,439 @@
+Echo of goal_fn_SUFI2.cpp
+-----------------------------------------
+Maximum Array dimensions:
+Max number of simulations=      2,000
+Max number of parameters=       1000
+Max number of observed data=    30,000
+Max number of obs. variables=   1500
+-----------------------------------------
+
+number of parameters=   4
+number of simulation=   8
+
+1  1:R__CN2.mgt                         -0.200000       0.200000
+2  2:V__ALPHA_BF.gw                      0.000000       1.000000
+3  3:V__GW_DELAY.gw                     30.000000     450.000000
+4  4:V__GWQMN.gw                         0.000000       2.000000
+
+---------------------------------------------
+
+----- Reading observed file ------
+total number of variables=  4
+type of goal fn=  5
+behavioral threshold=  0.500000
+Power of MSN=  1.000000
+
+variable name= FLOW_OUT_1
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 141
+
+variable name= FLOW_OUT_3
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 141
+
+variable name= FLOW_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 10.000000
+number of observations= 121
+
+variable name= NO3_OUT_7
+variable weight= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+weight below= 1.000000
+weight above= 1.000000
+percent error= 15.000000
+number of observations= 12
+
+
+-----------------end of observation----------------------------
+
+Number of simulated data files= 4
+Names of files containing simulated variables
+1- SUFI2.OUT/FLOW_OUT_1.txt
+2- SUFI2.OUT/FLOW_OUT_3.txt
+3- SUFI2.OUT/FLOW_OUT_7.txt
+4- SUFI2.OUT/NO3_OUT_7.txt
+
+
+----
+sim No.= 1
+  0.1750   0.4375 213.7500   0.3750 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  3.723906
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  27.573639
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  218.672516
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  74286.898438
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  195.017288
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  58761.730469
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  401650.000000
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  89845481472.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.031228  partial_goal=   -0.031228
+var=   2  lower_contribution=    0.000000  higher_contribution=   -3.246321  partial_goal=   -3.277549
+var=   3  lower_contribution=    0.000000  higher_contribution=  -12.106201  partial_goal=  -15.383750
+var=   4  lower_contribution=    0.000000  higher_contribution=   -8.699459  partial_goal=  -24.083209
+NS= -6.020802
+goal= -6.020802
+
+----
+sim No.= 2
+  0.1250   0.0625 161.2500   1.6250 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  1.352731
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  7.337116
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  107.736206
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  26531.416016
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  100.900963
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  22674.830078
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  67350.000000
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  15916990464.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=    0.016852  partial_goal=    0.016852
+var=   2  lower_contribution=    0.000000  higher_contribution=   -0.151500  partial_goal=   -0.134648
+var=   3  lower_contribution=    0.000000  higher_contribution=   -3.796362  partial_goal=   -3.931010
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.916124  partial_goal=   -3.014886
+NS= -0.753721
+goal= -0.753721
+
+----
+sim No.= 3
+ -0.1250   0.9375 318.7500   1.1250 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.173425
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  0.218406
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  30.697075
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  2135.692139
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  32.811295
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  2155.342041
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  5601.517090
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  214752112.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.232652  partial_goal=   -0.232652
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.025642  partial_goal=   -0.207010
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.441513  partial_goal=   -0.648524
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.052047  partial_goal=   -0.596476
+NS= -0.149119
+goal= -0.149119
+
+----
+sim No.= 4
+ -0.0250   0.6875 371.2500   1.8750 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.365605
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  1.037715
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  43.219635
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  5610.047363
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  43.325451
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  5317.814941
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  14106.699219
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  2062863232.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.185482  partial_goal=   -0.185482
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.088291  partial_goal=   -0.097191
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.893677  partial_goal=   -0.990868
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.434188  partial_goal=   -0.556681
+NS= -0.139170
+goal= -0.139170
+
+----
+sim No.= 5
+ -0.0750   0.8125 266.2500   0.6250 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.437526
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  0.563088
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  45.120136
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  3525.355957
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  47.158020
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  3379.936035
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  7368.910156
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  510136224.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.163405  partial_goal=   -0.163405
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.178601  partial_goal=    0.015196
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.438059  partial_goal=   -0.422863
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.165471  partial_goal=   -0.257392
+NS= -0.064348
+goal= -0.064348
+
+----
+sim No.= 6
+  0.0250   0.3125 108.7500   0.8750 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.689182
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  2.375905
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  59.999756
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  9724.155273
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  58.852596
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  8855.041992
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  25948.283203
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  6394503168.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.105741  partial_goal=   -0.105741
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.161208  partial_goal=    0.055467
+var=   3  lower_contribution=    0.000000  higher_contribution=   -1.304711  partial_goal=   -1.249244
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.747425  partial_goal=   -0.501819
+NS= -0.125455
+goal= -0.125455
+
+----
+sim No.= 7
+  0.0750   0.1875 423.7500   0.1250 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.986311
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  4.345088
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  77.457939
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  15463.060547
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  73.896378
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  13603.941406
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  44615.699219
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  14299192320.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.077763  partial_goal=   -0.077763
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.076797  partial_goal=   -0.000966
+var=   3  lower_contribution=    0.000000  higher_contribution=   -2.144638  partial_goal=   -2.145604
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.962588  partial_goal=   -1.183016
+NS= -0.295754
+goal= -0.295754
+
+----
+sim No.= 8
+ -0.1750   0.5625  56.2500   1.3750 
+var= 1  cntr_lower= 0  cntr_higher=141
+1  obs_avg_lower=  0.000000
+1  sim_avg_lower=  0.000000
+1  obs_avg_higher=  3.083971
+1  sim_avg_higher=  0.229595
+1  obs_variance_lower=  -0.000000
+1  sim_variance_lower=  -0.000000
+1  obs_variance_higher=  31.850775
+1  sim_variance_higher=  0.451531
+var= 2  cntr_lower= 0  cntr_higher=141
+2  obs_avg_lower=  0.000000
+2  sim_avg_lower=  0.000000
+2  obs_avg_higher=  88.873314
+2  sim_avg_higher=  32.474449
+2  obs_variance_lower=  -0.000000
+2  sim_variance_lower=  -0.000000
+2  obs_variance_higher=  14282.411133
+2  sim_variance_higher=  2815.612305
+var= 3  cntr_lower= 0  cntr_higher=121
+3  obs_avg_lower=  0.000000
+3  sim_avg_lower=  0.000000
+3  obs_avg_higher=  59.027512
+3  sim_avg_higher=  35.221569
+3  obs_variance_lower=  -0.000000
+3  sim_variance_lower=  -0.000000
+3  obs_variance_higher=  6411.961426
+3  sim_variance_higher=  2936.250488
+var= 4  cntr_lower= 0  cntr_higher=12
+4  obs_avg_lower=  0.000000
+4  sim_avg_lower=  0.000000
+4  obs_avg_higher=  54860.800781
+4  sim_avg_higher=  1647.541016
+4  obs_variance_lower=  -0.000000
+4  sim_variance_lower=  -0.000000
+4  obs_variance_higher=  21019916288.000000
+4  sim_variance_higher=  24828186.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.159250  partial_goal=   -0.159250
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.281602  partial_goal=    0.122351
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.236423  partial_goal=   -0.114072
+var=   4  lower_contribution=    0.000000  higher_contribution=   -0.080799  partial_goal=   -0.194870
+NS= -0.048718
+goal= -0.048718
