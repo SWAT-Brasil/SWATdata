@@ -1,5 +1,0 @@
----------------- reading observed data -----------------------------
-total number of variables=  4
-obj fn type=  5
-
----- reading goal.txt
