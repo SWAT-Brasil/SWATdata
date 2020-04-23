@@ -72,368 +72,368 @@ Names of files containing simulated variables
 
 ----
 sim No.= 1
-  0.0250   0.4375 108.7500   0.1250 
+  0.1250   0.9375 266.2500   1.8750 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.692890
+1  sim_avg_higher=  1.336836
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  2.364854
+1  sim_variance_higher=  7.198216
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  57.448826
+2  sim_avg_higher=  104.975830
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  9035.180664
+2  sim_variance_higher=  25594.560547
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  56.353222
+3  sim_avg_higher=  98.222511
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  8205.535156
+3  sim_variance_higher=  21870.332031
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  17480.232422
+4  sim_avg_higher=  44597.500000
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  2985783040.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.097192  partial_goal=   -0.097192
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.183395  partial_goal=    0.086203
-var=   3  lower_contribution=    0.000000  higher_contribution=   -1.167341  partial_goal=   -1.081139
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.531883  partial_goal=   -0.549256
-NS= -0.137314
-goal= -0.137314
+4  sim_variance_higher=  8438459904.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=    0.019906  partial_goal=    0.019906
+var=   2  lower_contribution=    0.000000  higher_contribution=   -0.093301  partial_goal=   -0.073395
+var=   3  lower_contribution=    0.000000  higher_contribution=   -3.628129  partial_goal=   -3.701524
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.849723  partial_goal=   -2.851801
+NS= -0.712950
+goal= -0.712950
 
 ----
 sim No.= 2
-  0.1250   0.8125 213.7500   0.8750 
+ -0.1750   0.8125 161.2500   0.8750 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  1.419316
+1  sim_avg_higher=  0.349185
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  7.275050
+1  sim_variance_higher=  0.239804
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  108.174988
+2  sim_avg_higher=  32.158485
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  26288.773438
+2  sim_variance_higher=  1342.054565
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  101.119614
+3  sim_avg_higher=  34.722496
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  22404.181641
+3  sim_variance_higher=  1341.447632
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  46625.980469
+4  sim_avg_higher=  2767.791748
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  8505495040.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=    0.035337  partial_goal=    0.035337
-var=   2  lower_contribution=    0.000000  higher_contribution=   -0.107975  partial_goal=   -0.072637
-var=   3  lower_contribution=    0.000000  higher_contribution=   -3.739403  partial_goal=   -3.812040
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.847171  partial_goal=   -2.964870
-NS= -0.741217
-goal= -0.741217
+4  sim_variance_higher=  65918800.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.181229  partial_goal=   -0.181229
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.085014  partial_goal=   -0.096215
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.141169  partial_goal=   -0.237384
+var=   4  lower_contribution=    0.000000  higher_contribution=   -0.034413  partial_goal=   -0.271797
+NS= -0.067949
+goal= -0.067949
 
 ----
 sim No.= 3
- -0.0750   0.6875 266.2500   1.6250 
+ -0.0750   0.3125  56.2500   0.1250 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.246731
+1  sim_avg_higher=  0.427043
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  0.484406
+1  sim_variance_higher=  0.952656
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  32.291046
+2  sim_avg_higher=  41.855495
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  2951.302734
+2  sim_variance_higher=  4177.896484
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  33.587406
+3  sim_avg_higher=  43.851593
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  2899.515381
+3  sim_variance_higher=  4113.694824
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  5463.017090
+4  sim_avg_higher=  5554.666504
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  262511088.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.206817  partial_goal=   -0.206817
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.051255  partial_goal=   -0.155563
-var=   3  lower_contribution=    0.000000  higher_contribution=   -0.536915  partial_goal=   -0.692478
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.079486  partial_goal=   -0.612993
-NS= -0.153248
-goal= -0.153248
+4  sim_variance_higher=  274376032.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.119335  partial_goal=   -0.119335
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.298857  partial_goal=    0.179523
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.347625  partial_goal=   -0.168103
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.085541  partial_goal=   -0.082561
+NS= -0.020640
+goal= -0.020640
 
 ----
 sim No.= 4
- -0.1250   0.9375 161.2500   1.1250 
+ -0.1250   0.6875 318.7500   1.3750 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.194599
+1  sim_avg_higher=  0.168007
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  0.272930
+1  sim_variance_higher=  0.215530
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  28.437710
+2  sim_avg_higher=  27.501242
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  1931.159180
+2  sim_variance_higher=  1791.520508
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  30.605223
+3  sim_avg_higher=  29.490192
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  1958.688599
+3  sim_variance_higher=  1812.980835
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  4166.766602
+4  sim_avg_higher=  4934.233398
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  145614368.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.209331  partial_goal=   -0.209331
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.054745  partial_goal=   -0.154586
-var=   3  lower_contribution=    0.000000  higher_contribution=   -0.319930  partial_goal=   -0.474516
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.021552  partial_goal=   -0.452964
-NS= -0.113241
-goal= -0.113241
+4  sim_variance_higher=  188652736.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.233557  partial_goal=   -0.233557
+var=   2  lower_contribution=    0.000000  higher_contribution=   -0.009115  partial_goal=   -0.242672
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.407383  partial_goal=   -0.650055
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.043986  partial_goal=   -0.606069
+NS= -0.151517
+goal= -0.151517
 
 ----
 sim No.= 5
- -0.1750   0.1875 423.7500   0.6250 
+ -0.0250   0.5625 108.7500   1.6250 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.395351
+1  sim_avg_higher=  0.396295
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  0.146664
+1  sim_variance_higher=  1.137297
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  37.453213
+2  sim_avg_higher=  41.081673
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  1158.620605
+2  sim_variance_higher=  5253.585938
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  40.308262
+3  sim_avg_higher=  41.274437
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  1120.685547
+3  sim_variance_higher=  4999.252930
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  2640.504395
+4  sim_avg_higher=  9909.541992
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  56077888.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.189263  partial_goal=   -0.189263
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.058069  partial_goal=   -0.131193
-var=   3  lower_contribution=    0.000000  higher_contribution=   -0.125850  partial_goal=   -0.257043
-var=   4  lower_contribution=    0.000000  higher_contribution=   -0.042816  partial_goal=   -0.299859
-NS= -0.074965
-goal= -0.074965
+4  sim_variance_higher=  952368704.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.152549  partial_goal=   -0.152549
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.140532  partial_goal=   -0.012017
+var=   3  lower_contribution=    0.000000  higher_contribution=   -0.748704  partial_goal=   -0.760721
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.269076  partial_goal=   -0.491646
+NS= -0.122911
+goal= -0.122911
 
 ----
 sim No.= 6
-  0.1750   0.3125 371.2500   0.3750 
+  0.1750   0.1875 371.2500   1.1250 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  3.711618
+1  sim_avg_higher=  3.579479
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  27.258993
+1  sim_variance_higher=  27.179319
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  217.158600
+2  sim_avg_higher=  211.864822
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  73556.718750
+2  sim_variance_higher=  72173.671875
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  193.754333
+3  sim_avg_higher=  189.245026
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  58292.613281
+3  sim_variance_higher=  57268.835938
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  213040.000000
+4  sim_avg_higher=  207236.671875
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  36290457600.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.020182  partial_goal=   -0.020182
-var=   2  lower_contribution=    0.000000  higher_contribution=   -3.175633  partial_goal=   -3.195815
-var=   3  lower_contribution=    0.000000  higher_contribution=  -11.988390  partial_goal=  -15.184205
-var=   4  lower_contribution=    0.000000  higher_contribution=   -1.188086  partial_goal=  -16.372291
-NS= -4.093073
-goal= -4.093073
+4  sim_variance_higher=  35081830400.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.018218  partial_goal=   -0.018218
+var=   2  lower_contribution=    0.000000  higher_contribution=   -3.031022  partial_goal=   -3.049240
+var=   3  lower_contribution=    0.000000  higher_contribution=  -11.644484  partial_goal=  -14.693724
+var=   4  lower_contribution=    0.000000  higher_contribution=   -1.032481  partial_goal=  -15.726205
+NS= -3.931551
+goal= -3.931551
 
 ----
 sim No.= 7
-  0.0750   0.0625  56.2500   1.8750 
+  0.0250   0.0625 213.7500   0.3750 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.896079
+1  sim_avg_higher=  0.691685
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  4.367314
+1  sim_variance_higher=  2.218391
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  71.817894
+2  sim_avg_higher=  56.972111
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  14366.337891
+2  sim_variance_higher=  8747.295898
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  68.325249
+3  sim_avg_higher=  55.895664
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  12666.888672
+3  sim_variance_higher=  7920.698242
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  29241.916016
+4  sim_avg_higher=  17384.349609
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  7536840192.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.076927  partial_goal=   -0.076927
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.098449  partial_goal=    0.021522
-var=   3  lower_contribution=    0.000000  higher_contribution=   -1.960944  partial_goal=   -1.939422
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.798152  partial_goal=   -1.141271
-NS= -0.285318
-goal= -0.285318
+4  sim_variance_higher=  2985760256.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.111448  partial_goal=   -0.111448
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.156817  partial_goal=    0.045369
+var=   3  lower_contribution=    0.000000  higher_contribution=   -1.174192  partial_goal=   -1.128824
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.530936  partial_goal=   -0.597888
+NS= -0.149472
+goal= -0.149472
 
 ----
 sim No.= 8
- -0.0250   0.5625 318.7500   1.3750 
+  0.0750   0.4375 423.7500   0.6250 
 var= 1  cntr_lower= 0  cntr_higher=141
 1  obs_avg_lower=  0.000000
 1  sim_avg_lower=  0.000000
 1  obs_avg_higher=  3.083971
-1  sim_avg_higher=  0.368578
+1  sim_avg_higher=  0.977464
 1  obs_variance_lower=  -0.000000
 1  sim_variance_lower=  -0.000000
 1  obs_variance_higher=  31.850775
-1  sim_variance_higher=  1.035258
+1  sim_variance_higher=  4.253076
 var= 2  cntr_lower= 0  cntr_higher=141
 2  obs_avg_lower=  0.000000
 2  sim_avg_lower=  0.000000
 2  obs_avg_higher=  88.873314
-2  sim_avg_higher=  40.167873
+2  sim_avg_higher=  74.256218
 2  obs_variance_lower=  -0.000000
 2  sim_variance_lower=  -0.000000
 2  obs_variance_higher=  14282.411133
-2  sim_variance_higher=  5029.337891
+2  sim_variance_higher=  14633.208984
 var= 3  cntr_lower= 0  cntr_higher=121
 3  obs_avg_lower=  0.000000
 3  sim_avg_lower=  0.000000
 3  obs_avg_higher=  59.027512
-3  sim_avg_higher=  40.268448
+3  sim_avg_higher=  70.730309
 3  obs_variance_lower=  -0.000000
 3  sim_variance_lower=  -0.000000
 3  obs_variance_higher=  6411.961426
-3  sim_variance_higher=  4762.431152
+3  sim_variance_higher=  12860.462891
 var= 4  cntr_lower= 0  cntr_higher=12
 4  obs_avg_lower=  0.000000
 4  sim_avg_lower=  0.000000
 4  obs_avg_higher=  54860.800781
-4  sim_avg_higher=  10056.933594
+4  sim_avg_higher=  30197.681641
 4  obs_variance_lower=  -0.000000
 4  sim_variance_lower=  -0.000000
 4  obs_variance_higher=  21019916288.000000
-4  sim_variance_higher=  966809664.000000
-var=   1  lower_contribution=    0.000000  higher_contribution=   -0.181939  partial_goal=   -0.181939
-var=   2  lower_contribution=    0.000000  higher_contribution=    0.085997  partial_goal=   -0.095941
-var=   3  lower_contribution=    0.000000  higher_contribution=   -0.806658  partial_goal=   -0.902599
-var=   4  lower_contribution=    0.000000  higher_contribution=    0.271914  partial_goal=   -0.630685
-NS= -0.157671
-goal= -0.157671
+4  sim_variance_higher=  7530516992.000000
+var=   1  lower_contribution=    0.000000  higher_contribution=   -0.075968  partial_goal=   -0.075968
+var=   2  lower_contribution=    0.000000  higher_contribution=    0.100265  partial_goal=    0.024297
+var=   3  lower_contribution=    0.000000  higher_contribution=   -2.008439  partial_goal=   -1.984142
+var=   4  lower_contribution=    0.000000  higher_contribution=    0.801071  partial_goal=   -1.183071
+NS= -0.295768
+goal= -0.295768

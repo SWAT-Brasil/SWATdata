@@ -12,3 +12,6 @@ adequadamente.
 - Permitir um executavel customizado pelo usuario: ele fornece a path para o executavel
 e ele é carregado quando chama o run. Ou talvez utilizar run_custom...acho que a primeira
 forma é melhor pois não precisa alterar o código, só acresentar uma linha.
+
+## Problemas encontrados
+- O SUFI2_95ppu.exe não funciona direito em Linux, ele mostra um erro e não gera o arquivo de saída.
